@@ -7,7 +7,6 @@
 ```bash
 pip install -r requirements.txt
 ```
-
 ### Step 2 - Run main.py file
 
 ```bash
@@ -17,4 +16,9 @@ to download the dataset
 ```
 wget https://raw.githubusercontent.com/avnyadav/sensor-fault-detection/main/aps_failure_training_set1.csv
 ```
+<<<<<<< HEAD
 This is changes made in neuro lab
+=======
+
+This file is edited by Kuber in github website
+>>>>>>> 0938c5ff2e5d0a39f217d455fb3bbc69b3879852
